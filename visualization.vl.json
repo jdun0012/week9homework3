@@ -27,9 +27,9 @@
           "scale": {"domain": [0, 200]}
         },
         "tooltip": [
-          {"field": "Country", "type": "ordinal", "title": "Country: "},
-          {"field": "City", "type": "ordinal", "title": "City:"},
-          {"field": "AQI Value", "type": "nominal", "title": "AQI Value:"}
+          {"field": "Country", "type": "ordinal", "title": "Country "},
+          {"field": "City", "type": "ordinal", "title": "City"},
+          {"field": "AQI Value", "type": "nominal", "title": "AQI Value"}
         ]
       }
     }
